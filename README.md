@@ -86,6 +86,7 @@
 
 </details>
 
+[devto]: https://dev.to/fgilde
 [coab]: https://checkoutandbuild.azurewebsites.net/
 [website]: http://gilde.org/
 [github]: https://github.com/fgilde/
