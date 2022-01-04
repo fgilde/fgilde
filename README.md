@@ -12,13 +12,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="gilde.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="fgilde | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="fgilde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="fgilde | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="fgilde | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="fgilde | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="fgilde | Nuget" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuget.svg" />][nuget]
+[<img align="left" alt="fgilde | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 <br />
 
 ### Languages and Tools:
@@ -76,6 +77,31 @@
 
 ---
 
+### [<img align="left" alt="fgilde | Nuget" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuget.svg" />][nuget] [Latest Nuget Packages][nuget]
+
+<!-- NUGET:START -->
+
+<!-- NUGET:END -->
+
+➡️ [all nuget packages...][nuget]
+
+
+---
+### [<img align="left" alt="fgilde | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] [Github Stats and activity][github]
+[![fgilde GitHub stats](https://github-readme-stats.vercel.app/api?username=fgilde&theme=dark)][github]
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fgilde&repo=CleanArchitectureBaseBlazor&theme=dark)](https://github.com/fgilde/CleanArchitectureBaseBlazor)
+-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fgilde&repo=CleanArchitectureBase&theme=dark)](https://github.com/fgilde/CleanArchitectureBase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fgilde&repo=Nextended&theme=dark)](https://github.com/fgilde/Nextended)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fgilde&repo=Checkoutandbuild&theme=dark)](https://github.com/fgilde/checkoutandbuild)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fgilde&repo=BeamerStreamer&theme=dark)](https://github.com/fgilde/BeamerStreamer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fgilde&repo=ResourceTranslator.CLI&theme=dark)](https://github.com/fgilde/ResourceTranslator.CLI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fgilde&repo=BlazorJS&theme=dark)](https://github.com/fgilde/BlazorJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fgilde&repo=MudBlazor.Extensions&theme=dark)](https://github.com/fgilde/MudBlazor.Extensions)
+
+➡️ [more repositories...](https://github.com/fgilde?tab=repositories)
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -86,12 +112,13 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="fgilde GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fgilde&show_icons=true&hide_border=true" />
+  <summary>:zap: Most used Languages in Github repos</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgilde&hide=html&theme=dark&langs_count=8)](https://github.com/fgilde/github-readme-stats)
 
 </details>
 
+[nuget]: https://www.nuget.org/profiles/fgilde
 [devto]: https://dev.to/fgilde
 [coab]: https://checkoutandbuild.azurewebsites.net/
 [website]: http://gilde.org/
