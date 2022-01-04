@@ -49,7 +49,16 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Kalkofes Mattscheibe Staffel 1 Folge 1 HD Deutsch](https://www.youtube.com/watch?v=ieMeU8vC00Y)
+- [KM   Die Fans der Kader Loth auf Hausbesuch](https://www.youtube.com/watch?v=caLqnEp4DTQ)
+- [Marvel&#39;s Spider-Man_20180910204225](https://www.youtube.com/watch?v=gYOzafws-Ac)
+- [Ambeam Jurassic world](https://www.youtube.com/watch?v=2W2ROT-ArfM)
+- [AmbiWall Music visualizer](https://www.youtube.com/watch?v=ozc5UuKM-zg)
+- [AmbiWall Music visualizer](https://www.youtube.com/watch?v=DuZW2VFWxQs)
+- [AmbiWall Music visualizer](https://www.youtube.com/watch?v=Y6_CdDy4R8c)
+- [AmbiWall Sample Fifa effect](https://www.youtube.com/watch?v=jiHj_XcoRrk)
+- [AmbiWall Sample 2](https://www.youtube.com/watch?v=JhQFlL-AuIA)
+- [AmbiWall Sample 1](https://www.youtube.com/watch?v=Xo5VpuMKPO4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
