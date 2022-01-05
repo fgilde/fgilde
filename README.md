@@ -50,7 +50,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ambeam Jurassic world](https://www.youtube.com/watch?v=2W2ROT-ArfM)
+- [AmbiWall Jurassic world](https://www.youtube.com/watch?v=2W2ROT-ArfM)
 - [AmbiWall Music visualizer](https://www.youtube.com/watch?v=ozc5UuKM-zg)
 - [AmbiWall Music visualizer](https://www.youtube.com/watch?v=DuZW2VFWxQs)
 - [AmbiWall Music visualizer](https://www.youtube.com/watch?v=Y6_CdDy4R8c)
