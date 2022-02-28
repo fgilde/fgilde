@@ -81,6 +81,16 @@
 
 ➡️ [all nuget packages...][nuget]
 
+---
+
+### [<img align="left" alt="fgilde | Nuget" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm] [Latest NPM Packages][npm]
+
+<!-- NPM:START -->
+
+<!-- NPM:END -->
+
+➡️ [all npm packages...][npm]
+
 
 ---
 ### [<img align="left" alt="fgilde | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] [Github Stats and activity][github]
@@ -115,6 +125,7 @@
 </details>
 
 [nuget]: https://www.nuget.org/profiles/fgilde
+[npm]: https://www.npmjs.com/~fgilde
 [devto]: https://dev.to/fgilde
 [coab]: https://checkoutandbuild.azurewebsites.net/
 [website]: http://gilde.org/
