@@ -66,6 +66,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://dev.to/fgilde/test-20b9)
 - [Hallo Welt!](http://gilde.org/hallo-welt/)
 - [Scent in the Voyages](http://gilde.org/scent-in-the-voyages/)
 - [The Stone of the Flames](http://gilde.org/the-stone-of-the-flames/)
