@@ -1,7 +1,7 @@
 ### Hi there, I'm Florian Gilde - aka [Mandaflorian][website] 👋 
 
 [![Website](https://img.shields.io/website?label=gilde.org&style=for-the-badge&url=http%3A%2F%2Fgilde.org)](http://gilde.org)
-[![Playlist Converter](https://img.shields.io/website?label=playlistconverter.de&style=for-the-badge&url=https%3A%2F%2Fplaylistconverter.de)](https://playlistconverter.de)
+[![Playlist Converter](https://img.shields.io/website?label=playlistconverter.de&style=for-the-badge&url=http%3A%2F%2Fplaylistconverter.de)](http://playlistconverter.de)
 [![Checkoutandbuild](https://img.shields.io/website?label=checkoutandbuild&style=for-the-badge&url=https%3A%2F%2Fcheckoutandbuild.azurewebsites.net)](https://checkoutandbuild.azurewebsites.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fgilde?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffgilde&screen_name=fgilde)
 
