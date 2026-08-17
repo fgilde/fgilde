@@ -81,7 +81,7 @@
 | **UNLowCoder** | Low-code tooling | [docs](https://fgilde.github.io/UNLowCoder/) | [↗](https://github.com/fgilde/UNLowCoder) |
 | **MuseForge** | Music generation playground | [demo](https://fgilde.github.io/MuseForge/) | [↗](https://github.com/fgilde/MuseForge) |
 | **PowerClean** | Cleanup utility | [page](https://fgilde.github.io/PowerClean/) | [↗](https://github.com/fgilde/PowerClean) |
-| **DrunkenRecords** | Side project page | [page](https://fgilde.github.io/DrunkenRecords/) | [↗](https://github.com/fgilde/DrunkenRecords) |
+| **DrunkenRecords** | Independent music label — Eyirish, 0,5er, Die PapiBaras | [drunkenrecords.de](https://drunkenrecords.de) | [↗](https://github.com/fgilde/DrunkenRecords) |
 
 ---
 
