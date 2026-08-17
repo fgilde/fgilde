@@ -10,6 +10,14 @@
 
 <h3 align="center"><a href="https://fgilde.github.io/">🚀 &nbsp;All my live demos in one place → fgilde.github.io</a></h3>
 
+<div align="center">
+
+<a href="https://github.com/sponsors/fgilde"><img src="https://img.shields.io/github/sponsors/fgilde?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA&color=EA4AAA&label=sponsor%20me&labelColor=0B1122" alt="Sponsor fgilde"></a> <a href="https://www.buymeacoffee.com/fgilde"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=FFDD00" alt="Buy me a coffee"></a> <a href="https://www.paypal.me/fgilde"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0B1122" alt="PayPal"></a>
+
+<sub><i>My packages are free and always will be — sponsoring just keeps the coffee flowing ☕</i></sub>
+
+</div>
+
 ---
 
 ## 👋 &nbsp;Hi, I'm Florian — aka Mandaflorian
