@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img"
+     aria-label="Florian Gilde - Developer, Husband, Father, Diver, Skateboarder">
+  <title>Florian Gilde</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070a14"/>
+      <stop offset="0.55" stop-color="#0b1122"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c5cff">
+        <animate attributeName="stop-color"
+          values="#7c5cff;#22d3ee;#f472b6;#7c5cff" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#22d3ee">
+        <animate attributeName="stop-color"
+          values="#22d3ee;#f472b6;#7c5cff;#22d3ee" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#f472b6">
+        <animate attributeName="stop-color"
+          values="#f472b6;#7c5cff;#22d3ee;#f472b6" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+
+    <radialGradient id="o1"><stop offset="0" stop-color="#7c5cff" stop-opacity=".85"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2"><stop offset="0" stop-color="#22d3ee" stop-opacity=".8"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o3"><stop offset="0" stop-color="#f472b6" stop-opacity=".7"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="320" rx="26"/></clipPath>
+
+    <pattern id="mesh" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+
+    <style>
+      .orb  { animation: float1 18s ease-in-out infinite; }
+      .orb2 { animation: float2 23s ease-in-out infinite; }
+      .orb3 { animation: float3 29s ease-in-out infinite; }
+      @keyframes float1 { 0%,100% { transform: translate(0,0) scale(1); }   50% { transform: translate(120px,42px) scale(1.25); } }
+      @keyframes float2 { 0%,100% { transform: translate(0,0) scale(1.15); } 50% { transform: translate(-140px,-34px) scale(.9); } }
+      @keyframes float3 { 0%,100% { transform: translate(0,0) scale(.95); }  50% { transform: translate(90px,-46px) scale(1.3); } }
+
+      /* three subtitles, 13.5s cycle, 4.5s each — windows touch so there is never a blank gap */
+      .r1, .r2, .r3 { animation: roll 13.5s ease-in-out infinite; opacity: 0; }
+      .r2 { animation-delay: 4.5s; }
+      .r3 { animation-delay: 9s; }
+      @keyframes roll {
+        0%   { opacity: 0; transform: translateY(8px); }
+        3%   { opacity: 1; transform: translateY(0); }
+        32%  { opacity: 1; transform: translateY(0); }
+        35%  { opacity: 0; transform: translateY(-8px); }
+        100% { opacity: 0; transform: translateY(-8px); }
+      }
+
+      .twinkle { animation: tw 3.4s ease-in-out infinite; }
+      .t2 { animation-delay: .7s; } .t3 { animation-delay: 1.4s; }
+      .t4 { animation-delay: 2.1s; } .t5 { animation-delay: 2.8s; }
+      @keyframes tw { 0%,100% { opacity:.15; } 50% { opacity:.9; } }
+
+      .sweep { animation: sweep 6.5s cubic-bezier(.6,0,.3,1) infinite; }
+      @keyframes sweep { 0% { transform: translateX(-420px); opacity:0; } 12% { opacity:.55; }
+        55% { transform: translateX(1300px); opacity:0; } 100% { transform: translateX(1300px); opacity:0; } }
+
+      .bar { transform-box: fill-box; transform-origin: left center;
+             animation: grow 2.4s cubic-bezier(.2,.8,.2,1) both; }
+      @keyframes grow { from { transform: scaleX(.02); } to { transform: scaleX(1); } }
+
+      .glow { animation: breathe 5s ease-in-out infinite; transform-origin: 120px 160px; }
+      @keyframes breathe { 0%,100% { transform: scale(1); } 50% { transform: scale(1.045); } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .orb,.orb2,.orb3,.sweep,.glow,.twinkle { animation: none; }
+        .r1 { opacity: 1; animation: none; } .r2,.r3 { display: none; }
+        .bar { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#sky)"/>
+    <rect width="1200" height="320" fill="url(#mesh)"/>
+
+    <g filter="url(#soft)">
+      <circle class="orb"  cx="150"  cy="60"  r="180" fill="url(#o1)"/>
+      <circle class="orb2" cx="1020" cy="250" r="200" fill="url(#o2)"/>
+      <circle class="orb3" cx="700"  cy="-20" r="160" fill="url(#o3)"/>
+    </g>
+
+    <g fill="#ffffff">
+      <circle class="twinkle"    cx="980"  cy="52"  r="1.8"/>
+      <circle class="twinkle t2" cx="1102" cy="118" r="1.4"/>
+      <circle class="twinkle t3" cx="880"  cy="94"  r="1.6"/>
+      <circle class="twinkle t4" cx="1150" cy="48"  r="1.3"/>
+      <circle class="twinkle t5" cx="1040" cy="150" r="1.5"/>
+    </g>
+
+    <!-- monogram -->
+    <g class="glow">
+      <rect x="64" y="104" width="112" height="112" rx="28" fill="url(#mono)" opacity=".16"/>
+      <rect x="64" y="104" width="112" height="112" rx="28" fill="none" stroke="url(#mono)" stroke-width="2"/>
+      <text x="120" y="178" text-anchor="middle" font-family="Segoe UI, system-ui, -apple-system, Helvetica, Arial, sans-serif"
+            font-size="46" font-weight="800" letter-spacing="-2" fill="url(#mono)">FG</text>
+    </g>
+
+    <!-- wordmark -->
+    <text x="212" y="152" font-family="Segoe UI, system-ui, -apple-system, Helvetica, Arial, sans-serif"
+          font-size="72" font-weight="800" letter-spacing="-3.4" fill="#eef1fa">Florian Gilde</text>
+
+    <rect class="bar" x="214" y="170" width="470" height="3" rx="2" fill="url(#accent)"/>
+
+    <!-- rotating subtitle -->
+    <g font-family="Segoe UI, system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="23"
+       font-weight="600" fill="#9aa6c4">
+      <text class="r1" x="214" y="212">.NET · Blazor · MudBlazor.Extensions · Aspire</text>
+      <text class="r2" x="214" y="212">TypeScript · React · Three.js · WebRTC</text>
+      <text class="r3" x="214" y="212">Husband · Father · Diver · Skateboarder</text>
+    </g>
+
+    <!-- chips -->
+    <g font-family="Segoe UI, system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="13"
+       font-weight="700" letter-spacing="1.4">
+      <g>
+        <rect x="214" y="240" width="132" height="30" rx="15" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".12"/>
+        <text x="280" y="260" text-anchor="middle" fill="#c9d3ea">GILDE.ORG</text>
+      </g>
+      <g>
+        <rect x="356" y="240" width="196" height="30" rx="15" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".12"/>
+        <text x="454" y="260" text-anchor="middle" fill="#c9d3ea">FLORIAN.GILDE.ORG</text>
+      </g>
+      <g>
+        <rect x="562" y="240" width="216" height="30" rx="15" fill="#7c5cff" fill-opacity=".14" stroke="#7c5cff" stroke-opacity=".4"/>
+        <text x="670" y="260" text-anchor="middle" fill="#c3b6ff">FGILDE.GITHUB.IO</text>
+      </g>
+    </g>
+
+    <!-- light sweep -->
+    <g class="sweep">
+      <rect x="0" y="0" width="150" height="320" fill="#ffffff" opacity=".05" transform="skewX(-18)"/>
+    </g>
+
+    <rect x="0" y="0" width="1200" height="320" rx="26" fill="none" stroke="#ffffff" stroke-opacity=".09" stroke-width="2"/>
+    <rect x="0" y="317" width="1200" height="3" fill="url(#accent)"/>
+  </g>
+</svg>
