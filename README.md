@@ -142,6 +142,7 @@
 ## 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [R.I.P. SaaS](https://dev.to/fgilde/rip-saas-2807)
 - [Test](https://dev.to/fgilde/test-20b9)
 <!-- BLOG-POST-LIST:END -->
 
